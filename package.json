@@ -45,7 +45,7 @@
     "gulp-sourcemaps": "^1",
     "gulp-uglify": "^1",
     "gulp-util": "^3.0.3",
-    "laravel-elixir": "^4.2.1",
+    "laravel-elixir": "^5.0.0",
     "laravel-elixir-karma": "^0.2.2",
     "main-bower-files": "^2.1.0",
     "underscore": "^1.8.3",
