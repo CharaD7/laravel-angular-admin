@@ -19,7 +19,7 @@
     "vinyl-source-stream": "~1.0.0"
   },
   "dependencies": {
-    "babel": "^4.0.2",
+    "babel": "^6.23.0",
     "babel-core": "^6.4.5",
     "babel-loader": "^6.2.1",
     "babel-preset-es2015": "^6.3.13",
@@ -29,7 +29,7 @@
     "eslint": "^1.10.3",
     "eslint-plugin-angular": "^0.15.0",
     "gulp": "^3.8.8",
-    "gulp-add-src": "^0.2.0",
+    "gulp-add-src": "^1.0.0",
     "gulp-concat": "^2.6.0",
     "gulp-concat-sourcemap": "^1.3.1",
     "gulp-cssnano": "^2.1.1",
